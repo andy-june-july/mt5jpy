@@ -1,2 +1,2 @@
 # mt5jpy
-Mt5jpy opens up FX with MetaTrader5.
+Mt5jpy is a FX library for MT5 in Japan.
